@@ -6,6 +6,11 @@
 
 [![Deploy](https://github.com/alex-hedley/react-ts-vite-example/actions/workflows/deploy.yml/badge.svg)](https://github.com/alex-hedley/react-ts-vite-example/actions/workflows/deploy.yml)
 [![Node.js CI](https://github.com/alex-hedley/react-ts-vite-example/actions/workflows/node.js.yml/badge.svg)](https://github.com/alex-hedley/react-ts-vite-example/actions/workflows/node.js.yml)
+[![pages-build-deployment](https://github.com/alex-hedley/react-ts-vite-example/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/alex-hedley/react-ts-vite-example/actions/workflows/pages/pages-build-deployment)
+
+## Site
+
+- https://alex-hedley.github.io/react-ts-vite-example/
 
 ## Docs
 
