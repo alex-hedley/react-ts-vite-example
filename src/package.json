@@ -9,7 +9,8 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "lint-fix": "eslint . --ext ts,tsx --fix",
     "format": "prettier --write src/**/*.{ts,tsx,js,css,html,json}",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lighthouse": "lighthouse https://alex-hedley.github.io/react-ts-vite-example/ --output json --output html --output-path ./lighthouse/index.json"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
@@ -17,6 +18,7 @@
     "@fontsource/roboto": "^5.0.13",
     "@mui/icons-material": "^5.15.17",
     "@mui/material": "^5.15.17",
+    "lighthouse": "^12.0.0",
     "node-sass": "^9.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
